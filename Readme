@@ -1,0 +1,12 @@
+Employee Management API 
+Building REST APIs using ASP.NET Core and Entity Framework Core
+
+Frameworks - Packages - Patterns - Features used :
+-Visual studio 2019
+-ASP.NET Core 3
+-Entity Framework Core 5
+-Entity Framework Migrations - Code First
+-Repository pattern
+-SQL Server database 12
+
+
